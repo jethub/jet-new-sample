@@ -1,0 +1,2 @@
+# SAMPLE FILE
+some stuff | more stuff | no more
